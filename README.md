@@ -26,5 +26,7 @@ Carrega os conteúdo de um custom post de um determinado ID.
 
 Carrega a lista de posts de terminados campos personalizados nesse caso o campo tipo_de_midia com o slug album e o campo nome_artista com o slug iza-sabino.  
 `````
-[pods name="musica"  template="Musica Lista Singles" where="tipo_de_midia.slug = 'single' " where="nome_artista.slug = 'iza-sabino'" orderby="date DESC" limit="1000" /]
+[pods name="musica"  template="Musica Lista Singles" where="tipo_de_midia.slug = 'single' " where="nome_artista.slug = 'iza-sabino'" orderby="date DESC" limit="1000" /]  
 `````
+---
+### Para ver o repositório dos shortcodes que eu já crei, [clique aqui](https://github.com/tiagobernard/wp-shortcodes)  
