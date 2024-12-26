@@ -1,9 +1,9 @@
-# Shortcodes para o plugin Pods - Tipos de conteúdo e campos personalizados
+# Shortcodes para o plugin para Wordpress: Pods - Tipos de conteúdo e campos personalizados
 
 ## Para baixar o plugin [clique aqui](https://br.wordpress.org/plugins/pods/)
 
-## Para que os shortcodes funcionem de acordo é preciso alterar uma configuração
-__No painel do Wordpress e com o plugin instalado e ativo...__  
+### Para que os shortcodes funcionem de acordo é preciso alterar uma configuração
+__No painel do Wordpress, com o plugin instalado e ativo...__  
 1 - Clique me Pods Admim;  
 2 - Depois em Configurações;  
 3 - Em Segurança;  
