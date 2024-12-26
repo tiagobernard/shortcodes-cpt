@@ -1,4 +1,4 @@
-# Shortcodes para o plugin para Wordpress: Pods - Tipos de conteúdo e campos personalizados
+# Shortcodes do plugin para Wordpress: Pods - Tipos de conteúdo e campos personalizados
 
 ## Para baixar o plugin [clique aqui](https://br.wordpress.org/plugins/pods/)
 
