@@ -19,7 +19,7 @@ Lista DESC com limite de 1000 posts.
 [pods name="pagina_artista"  template="Artista Lista" orderby="date DESC" limit="1000" /]  
 `````
 
-Carrega os conteúdo de um post de um determinado ID.  
+Carrega os conteúdo de um custom post de um determinado ID.  
 `````
 [pods name="pagina_artista"  template="Artista Page"  id="702" /]  
 `````
